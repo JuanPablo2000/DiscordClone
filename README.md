@@ -1,2 +1,0 @@
-# DiscordClone
-Discord Clone!
